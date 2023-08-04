@@ -1,0 +1,15 @@
+F:\asp.net\Udemy\[FreeCourseSite.com] Udemy - Build an app with ASPNET Core and Angular from scratch\Projects\DatingAppSolution\DatingApp.Repository\bin\Debug\net6.0\DatingApp.Repository.deps.json
+F:\asp.net\Udemy\[FreeCourseSite.com] Udemy - Build an app with ASPNET Core and Angular from scratch\Projects\DatingAppSolution\DatingApp.Repository\bin\Debug\net6.0\DatingApp.Repository.dll
+F:\asp.net\Udemy\[FreeCourseSite.com] Udemy - Build an app with ASPNET Core and Angular from scratch\Projects\DatingAppSolution\DatingApp.Repository\bin\Debug\net6.0\DatingApp.Repository.pdb
+F:\asp.net\Udemy\[FreeCourseSite.com] Udemy - Build an app with ASPNET Core and Angular from scratch\Projects\DatingAppSolution\DatingApp.Repository\bin\Debug\net6.0\DatingApp.Core.dll
+F:\asp.net\Udemy\[FreeCourseSite.com] Udemy - Build an app with ASPNET Core and Angular from scratch\Projects\DatingAppSolution\DatingApp.Repository\bin\Debug\net6.0\DatingApp.Core.pdb
+F:\asp.net\Udemy\[FreeCourseSite.com] Udemy - Build an app with ASPNET Core and Angular from scratch\Projects\DatingAppSolution\DatingApp.Repository\obj\Debug\net6.0\DatingApp.Repository.csproj.AssemblyReference.cache
+F:\asp.net\Udemy\[FreeCourseSite.com] Udemy - Build an app with ASPNET Core and Angular from scratch\Projects\DatingAppSolution\DatingApp.Repository\obj\Debug\net6.0\DatingApp.Repository.GeneratedMSBuildEditorConfig.editorconfig
+F:\asp.net\Udemy\[FreeCourseSite.com] Udemy - Build an app with ASPNET Core and Angular from scratch\Projects\DatingAppSolution\DatingApp.Repository\obj\Debug\net6.0\DatingApp.Repository.AssemblyInfoInputs.cache
+F:\asp.net\Udemy\[FreeCourseSite.com] Udemy - Build an app with ASPNET Core and Angular from scratch\Projects\DatingAppSolution\DatingApp.Repository\obj\Debug\net6.0\DatingApp.Repository.AssemblyInfo.cs
+F:\asp.net\Udemy\[FreeCourseSite.com] Udemy - Build an app with ASPNET Core and Angular from scratch\Projects\DatingAppSolution\DatingApp.Repository\obj\Debug\net6.0\DatingApp.Repository.csproj.CoreCompileInputs.cache
+F:\asp.net\Udemy\[FreeCourseSite.com] Udemy - Build an app with ASPNET Core and Angular from scratch\Projects\DatingAppSolution\DatingApp.Repository\obj\Debug\net6.0\DatingApp.Repository.csproj.CopyComplete
+F:\asp.net\Udemy\[FreeCourseSite.com] Udemy - Build an app with ASPNET Core and Angular from scratch\Projects\DatingAppSolution\DatingApp.Repository\obj\Debug\net6.0\DatingApp.Repository.dll
+F:\asp.net\Udemy\[FreeCourseSite.com] Udemy - Build an app with ASPNET Core and Angular from scratch\Projects\DatingAppSolution\DatingApp.Repository\obj\Debug\net6.0\refint\DatingApp.Repository.dll
+F:\asp.net\Udemy\[FreeCourseSite.com] Udemy - Build an app with ASPNET Core and Angular from scratch\Projects\DatingAppSolution\DatingApp.Repository\obj\Debug\net6.0\DatingApp.Repository.pdb
+F:\asp.net\Udemy\[FreeCourseSite.com] Udemy - Build an app with ASPNET Core and Angular from scratch\Projects\DatingAppSolution\DatingApp.Repository\obj\Debug\net6.0\ref\DatingApp.Repository.dll
